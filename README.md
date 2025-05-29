@@ -11,7 +11,7 @@ This is a simple and efficient bash script to find palindromic sequences in mult
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/emboss-palindrome-batch.git
+git clone https://github.com/Ronykumawat/emboss.git
 cd emboss-palindrome-batch
 
 ⚙️ What You Need
