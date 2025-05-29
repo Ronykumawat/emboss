@@ -19,10 +19,6 @@ This script requires:
 
 EMBOSS (specifically, the palindrome tool)
 
-bash
-
-find, xargs, and wc (commonly available on Linux)
-
 Don't worry — the script automatically checks if EMBOSS is installed, and if not, it will try to install it using conda.
 
 🧪 Input Format
@@ -71,4 +67,8 @@ Rounak Kumawat
 
 📧 kumawatrounak9@gmail.com
 
-🌐 GitHub: github.com/Ronykumawat
+🌐 GitHub: github.com/Ronykumawat/emboss
+
+🪪 License
+This project is licensed under the Apache License 2.0. You are free to use, modify, and share it.
+
